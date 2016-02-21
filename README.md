@@ -1,6 +1,6 @@
 #gnlSniffer
 
-This project is an simple sniffer used to capture local network packets.
+This project is a simple sniffer used to capture local network packets.
 
 ## How to compile:
 
